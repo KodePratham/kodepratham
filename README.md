@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&section=header&text=KODE.%20PRATHAM%20KODE.&fontSize=50&fontColor=C9A227&fontAlignY=50&desc=&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&pause=2000&color=C9A227&center=true&vCenter=true&repeat=true&width=500&lines=LICENSE+TO+HACK;CYBERSECURITY+%7C+BLOCKCHAIN+%7C+IoT;THE+NAME+IS+KODE.+PRATHAM+KODE." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=22&pause=2000&color=C9A227&center=true&vCenter=true&repeat=true&width=600&lines=LICENSE+TO+HACK;CYBERSECURITY+%7C+BLOCKCHAIN+%7C+IoT;THE+NAME+IS+KODE.+PRATHAM+KODE." alt="Typing SVG" />
 
 <br>
 
@@ -56,8 +56,8 @@
 ## Mission Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodepratham&show_icons=true&hide_border=true&bg_color=000000&title_color=C9A227&text_color=FFFFFF&icon_color=C9A227&ring_color=C9A227" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodepratham&hide_border=true&background=000000&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9A227&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kodepratham&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=FFFFFF&icon_color=C9A227&ring_color=C9A227" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodepratham&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9A227&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -91,9 +91,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=C9A227)](https://linkedin.com/in/kodepratham)
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=C9A227)](https://twitter.com/kodepratham)
-[![Email](https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=for-the-badge&logo=protonmail&logoColor=C9A227)](mailto:pratham.kode@example.com)
+[![X](https://img.shields.io/badge/@KODEPRATHAM-000000?style=for-the-badge&logo=x&logoColor=C9A227)](https://twitter.com/kodepratham)
 
 </div>
 
