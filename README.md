@@ -47,29 +47,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/RPi-000000?style=flat-square&logo=raspberrypi&logoColor=C9A227)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=C9A227)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=C9A227)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=C9A227)
-
-</div>
-
----
-
-## Mission Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodepratham&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=FFFFFF&icon_color=C9A227&ring_color=C9A227" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodepratham&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9A227&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%" alt="GitHub Streak"/>
-</div>
-
----
-
-## Operational Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kodepratham&bg_color=000000&color=C9A227&line=C9A227&point=FFFFFF&area=true&hide_border=true&area_color=1a1a2e" width="100%" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
