@@ -134,22 +134,60 @@ Contributions are welcome. If you'd like to add a project or improve documentati
 
 1. Fork the repo
 2. Create a branch: `git checkout -b feature/your-feature`
+"""
+# KODE. PRATHAM KODE.
+
+> Personal projects and experiments in cybersecurity, blockchain, IoT, and systems engineering.
+
+## Overview
+
+This repository contains small, focused projects and learning exercises by Pratham Kode. Expect practical code, short write-ups, and runnable examples across security, embedded systems, and smart contracts.
+
+## Highlights
+
+- Cybersecurity, Blockchain (Solidity/Ethereum), and IoT demos
+- Short, runnable examples with usage notes
+- Tools and scripts for prototyping and learning
+
+## Quick Start
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+
+2. Explore folders like `projects/`, `contracts/`, or `tools/`.
+
+3. Follow each project's README for run instructions.
+
+## Project Layout (example)
+
+- `projects/` — standalone demos and exercises
+- `contracts/` — smart contract examples and tests
+- `hardware/` — Arduino / Raspberry Pi sketches and notes
+- `tools/` — scripts and utilities
+
+## Contributing
+
+Contributions welcome:
+
+1. Fork the repo
+2. Create a branch: `git checkout -b feature/your-feature`
 3. Commit and open a pull request with a short description
 
-Please keep changes focused and include README updates for any new project.
+Please include README updates for new projects.
 
----
-
-📫 **Contact**
+## Contact
 
 Find me on Twitter: [@KODEPRATHAM](https://twitter.com/kodepratham)
 
----
+## License
 
-📜 **License**
-
-See the `LICENSE` file (if present) or add a license to clarify reuse terms.
+See the `LICENSE` file if present.
 
 ---
 
-If you'd like, I can keep heading styles and the original visual banners, or create multiple README templates (developer-focused, portfolio-focused). Tell me which tone you prefer: "developer", "portfolio", or "creative".
+If you'd like a different tone (developer, portfolio, or creative), tell me which and I will prepare a trimmed template.
+"""
