@@ -77,7 +77,79 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=60&section=footer&text=The%20world%20is%20not%20enough.&fontSize=16&fontColor=C9A227&animation=fadeIn" width="100%"/>
+<!-- Improved README for clarity and attractiveness -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:000000&height=3&section=footer" width="100%"/>
+# KODE. PRATHAM KODE.
 
-</div>
+> Personal experiments and projects in cybersecurity, blockchain, IoT, and systems engineering.
+
+---
+
+🎯 **Overview**
+
+This repository collects small projects, learning exercises, and demos created by Pratham Kode. Expect practical code, write-ups, and examples across security, embedded systems, smart contracts, and tooling.
+
+---
+
+✨ **Highlights**
+
+- Well-focused demos in **Cybersecurity**, **Blockchain (Solidity/Ethereum)**, and **IoT/Embedded**
+- Short, runnable examples with clear README and usage notes
+- Tools & scripts for learning and rapid prototyping
+
+---
+
+🚀 **Quick Start**
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+
+2. Explore folders such as `projects/`, `contracts/`, or `tools/` for examples.
+
+3. Run examples (each project contains its own run instructions):
+
+```bash
+# Example: run a Python demo
+python3 projects/example_demo/run.py
+```
+
+---
+
+🗂️ **Project Layout (example)**
+
+- `projects/` — small standalone demos and exercises
+- `contracts/` — smart contract examples and tests
+- `hardware/` — sketches and notes for Arduino/Raspberry Pi projects
+- `tools/` — scripts and utilities
+
+---
+
+🤝 **Contributing**
+
+Contributions are welcome. If you'd like to add a project or improve documentation:
+
+1. Fork the repo
+2. Create a branch: `git checkout -b feature/your-feature`
+3. Commit and open a pull request with a short description
+
+Please keep changes focused and include README updates for any new project.
+
+---
+
+📫 **Contact**
+
+Find me on Twitter: [@KODEPRATHAM](https://twitter.com/kodepratham)
+
+---
+
+📜 **License**
+
+See the `LICENSE` file (if present) or add a license to clarify reuse terms.
+
+---
+
+If you'd like, I can keep heading styles and the original visual banners, or create multiple README templates (developer-focused, portfolio-focused). Tell me which tone you prefer: "developer", "portfolio", or "creative".
