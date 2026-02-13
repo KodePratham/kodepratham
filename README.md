@@ -1,30 +1,47 @@
-# Fresh Start
+# 👋 Hi, I’m Pratham (Professional Bug Summoner)
 
-This README was wiped clean and restarted. Welcome to a fresh slate.
+> "It works on my machine" is not a statement. It’s a side quest.
 
-## Memes
+## 🧠 Daily Developer Mood
 
-Here are a few image/GIF memes embedded from free sources (external links):
+![Not sure if trolling or just stupid](https://api.memegen.link/images/fry/not_sure_if_trolling/or_just_stupid.jpg)
 
-![Distracted Boyfriend](https://api.memegen.link/images/distracted_bf/you/me.png)
+![I can't even](https://api.memegen.link/images/facepalm/_/I_cant_even.jpg)
 
-![Think](https://api.memegen.link/images/think/you.png)
+![Noooo](https://api.memegen.link/images/michael-scott/noooo.jpg)
 
-![Table Flip GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+## 🎬 Live Footage of Me Debugging
 
-![Lenny](https://i.imgur.com/5c8Qp0F.png)
+![Keyboard Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-**Text meme:** ¯\_(ツ)_/¯
+![The Office Dance](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-For the full list of links used, see `assets/memes/links.md`.
+## ⚙️ Tech Stack (Emotionally)
 
-## Notes
+- Frontend: `console.log("why")`
+- Backend: `try { ship(); } catch (e) { panic(); }`
+- Database: prayers + retries
+- DevOps: if pipeline green ➜ deploy; if red ➜ pretend meeting
 
-- This file now embeds external images/GIFs. If you prefer local copies, I can download and add them to `assets/memes/`.
-- To add your own image/GIF files, place them in `assets/memes/` and reference their paths here.
+## 📈 Current Status
 
-Enjoy the memes — feel free to edit or replace images.
+- ✅ Coffee compiled
+- ✅ Code compiled
+- ❌ Logic not found
+
+## 🤝 Collaboration Policy
+
+- Send PRs.
+- Bring memes.
+- If CI fails, we stare at it together until it passes.
 
 ---
 
-_Edited by request: added embedded images and GIFs._
+### Bonus meme in one line
+
+`Me: I'll just make one small change.`  
+`App: (╯°□°）╯︵ ┻━┻`
+
+---
+
+If you read this far, you’re legally obligated to star the repo ⭐
