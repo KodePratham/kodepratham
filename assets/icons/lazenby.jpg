@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="100%" height="100%" fill="#222" />
+  <text x="50%" y="50%" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle" dominant-baseline="middle">JAMES BOND (ACTOR)</text>
+  <text x="50%" y="72%" fill="#cccccc" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle">(placeholder photo)</text>
+</svg>
