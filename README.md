@@ -1,47 +1,13 @@
 # 👋 Hi, I’m Pratham (Professional Bug Summoner)
 
-> "It works on my machine" is not a statement. It’s a side quest.
 
-## 🧠 Daily Developer Mood
 
-![Not sure if trolling or just stupid](https://api.memegen.link/images/fry/not_sure_if_trolling/or_just_stupid.jpg)
+![James Bond](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/James_Bond_007_logo.svg/250px-James_Bond_007_logo.svg.png)
 
-![I can't even](https://api.memegen.link/images/facepalm/_/I_cant_even.jpg)
+![Batman](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Batman%28circa_2016%29.png/250px-Batman%28circa_2016%29.png)
 
-![Noooo](https://api.memegen.link/images/michael-scott/noooo.jpg)
+![Iron Man](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Iron_Man_%28circa_2018%29.png/250px-Iron_Man_%28circa_2018%29.png)
 
-## 🎬 Live Footage of Me Debugging
+![James Bond Actor](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/On_Her_Majesty%27s_Secret_Service_(17)_(Lazenby_crop).jpg/250px-On_Her_Majesty%27s_Secret_Service_(17)_(Lazenby_crop).jpg)
 
-![Keyboard Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-![The Office Dance](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-## ⚙️ Tech Stack (Emotionally)
-
-- Frontend: `console.log("why")`
-- Backend: `try { ship(); } catch (e) { panic(); }`
-- Database: prayers + retries
-- DevOps: if pipeline green ➜ deploy; if red ➜ pretend meeting
-
-## 📈 Current Status
-
-- ✅ Coffee compiled
-- ✅ Code compiled
-- ❌ Logic not found
-
-## 🤝 Collaboration Policy
-
-- Send PRs.
-- Bring memes.
-- If CI fails, we stare at it together until it passes.
-
----
-
-### Bonus meme in one line
-
-`Me: I'll just make one small change.`  
-`App: (╯°□°）╯︵ ┻━┻`
-
----
-
-If you read this far, you’re legally obligated to star the repo ⭐
+![Bat-Signal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bat-Signal_1989.jpg/250px-Bat-Signal_1989.jpg)
