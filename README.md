@@ -8,6 +8,6 @@
 
 ![Iron Man](assets/icons/iron_man.svg)
 
-![James Bond Actor](assets/icons/lazenby.jpg)
+![James Bond Actor](assets/icons/lazenby.svg)
 
 ![Bat-Signal](assets/icons/bat_signal.svg)
